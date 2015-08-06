@@ -1,0 +1,61 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Geoex.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="GARDNERDENVER2000" Type="System.String" Scope="User">
+      <Value Profile="(Default)">GARDNER DENVER 2000 
+
+NOTAS:</Value>
+    </Setting>
+    <Setting Name="GARDNERDENVER15W" Type="System.String" Scope="User">
+      <Value Profile="(Default)">GARDNER DENVER 15W
+
+NOTAS:</Value>
+    </Setting>
+    <Setting Name="MAYHEW1000" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MAYHEW 1000
+
+NOTAS:</Value>
+    </Setting>
+    <Setting Name="MIDWAY15M" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MIDWAY 15M
+
+NOTAS:</Value>
+    </Setting>
+    <Setting Name="IRCYCLONRO300" Type="System.String" Scope="User">
+      <Value Profile="(Default)">IR CYCLON RO 300
+
+NOTES:</Value>
+    </Setting>
+    <Setting Name="BUCYRUSERIE22" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BUCYRUSERIE 22
+
+NOTAS:</Value>
+    </Setting>
+    <Setting Name="BUCYRUSERIE36L" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BUCYRUSERIE 36L
+
+NOTAS:</Value>
+    </Setting>
+    <Setting Name="INGERSOLLRAND1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">INGERSOLLRAND 1
+
+NOTES:</Value>
+    </Setting>
+    <Setting Name="INGERSOLLRAND2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">INGERSOLLRAND 2
+
+NOTAS:</Value>
+    </Setting>
+    <Setting Name="SULLAIR" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SULLAIR
+
+NOTAS:</Value>
+    </Setting>
+    <Setting Name="NCA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NCA
+
+NOTAS:</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
